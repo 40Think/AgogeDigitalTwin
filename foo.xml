@@ -1,33 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.16.8" size="12896">
+<fb version="0.16.8" size="13889">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <error>
-      <v t="S">Repository 40Think/obsidian-copilot_DigitalTwin not found</v>
-      <v t="S">Repository 40Think/obsidian-copilot_DigitalTwin not found</v>
-      <v t="S">nil can't be coerced into Integer</v>
-      <v t="S">Repository 40Think/obsidian-copilot_DigitalTwin not found</v>
-      <v t="S">GET https://api.github.com/search/issues?per_page=100&amp;q=repo%3A40Think%2Fobsidian-copilot_DigitalTwin+type%3Aissue+closed%3A2025-09-29T15%3A49%3A50Z..2025-10-27T15%3A49%3A50Z: 422 - Validation Failed
-Error summary:
-  message: The listed users and repositories cannot be searched either because the resources do not exist or you do not have permission to view them.
-  resource: Search
-  field: q
-  code: invalid // See: https://docs.github.com/v3/search/</v>
-      <v t="S">Repository 40Think/obsidian-copilot_DigitalTwin not found</v>
-      <v t="S">Repository 40Think/obsidian-copilot_DigitalTwin not found</v>
-      <v t="S">Repository 40Think/obsidian-copilot_DigitalTwin not found</v>
-      <v t="S">Repository 40Think/obsidian-copilot_DigitalTwin not found</v>
-      <v t="S">nil can't be coerced into Integer</v>
-      <v t="S">Repository 40Think/obsidian-copilot_DigitalTwin not found</v>
-      <v t="S">Repository 40Think/obsidian-copilot_DigitalTwin not found</v>
+      <v t="S">"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String) format, or the repository ID (Integer), or a hash containing :repo and :user keys.</v>
+      <v t="S">"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String) format, or the repository ID (Integer), or a hash containing :repo and :user keys.</v>
+      <v t="S">"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String) format, or the repository ID (Integer), or a hash containing :repo and :user keys.</v>
+      <v t="S">"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String) format, or the repository ID (Integer), or a hash containing :repo and :user keys.</v>
+      <v t="S">"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String) format, or the repository ID (Integer), or a hash containing :repo and :user keys.</v>
+      <v t="S">"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String) format, or the repository ID (Integer), or a hash containing :repo and :user keys.</v>
+      <v t="S">"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String) format, or the repository ID (Integer), or a hash containing :repo and :user keys.</v>
+      <v t="S">"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String) format, or the repository ID (Integer), or a hash containing :repo and :user keys.</v>
+      <v t="S">"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String) format, or the repository ID (Integer), or a hash containing :repo and :user keys.</v>
+      <v t="S">"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String) format, or the repository ID (Integer), or a hash containing :repo and :user keys.</v>
+      <v t="S">"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String) format, or the repository ID (Integer), or a hash containing :repo and :user keys.</v>
+      <v t="S">"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String) format, or the repository ID (Integer), or a hash containing :repo and :user keys.</v>
     </error>
     <inserted t="I">8</inserted>
-    <seconds t="F">5.297697407</seconds>
+    <seconds t="F">0.799938794</seconds>
     <version t="S">0.54.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-10-27T16:42:52Z</when>
+    <when t="T">2025-10-27T16:59:46Z</when>
   </f>
   <f>
     <_id t="I">1</_id>

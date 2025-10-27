@@ -3,29 +3,35 @@
   cycles: 1
   deleted: 8
   error:
-  - Repository 40Think/obsidian-copilot_DigitalTwin not found
-  - Repository 40Think/obsidian-copilot_DigitalTwin not found
-  - nil can't be coerced into Integer
-  - Repository 40Think/obsidian-copilot_DigitalTwin not found
-  - |-
-    GET https://api.github.com/search/issues?per_page=100&q=repo%3A40Think%2Fobsidian-copilot_DigitalTwin+type%3Aissue+closed%3A2025-09-29T15%3A49%3A50Z..2025-10-27T15%3A49%3A50Z: 422 - Validation Failed
-    Error summary:
-      message: The listed users and repositories cannot be searched either because the resources do not exist or you do not have permission to view them.
-      resource: Search
-      field: q
-      code: invalid // See: https://docs.github.com/v3/search/
-  - Repository 40Think/obsidian-copilot_DigitalTwin not found
-  - Repository 40Think/obsidian-copilot_DigitalTwin not found
-  - Repository 40Think/obsidian-copilot_DigitalTwin not found
-  - Repository 40Think/obsidian-copilot_DigitalTwin not found
-  - nil can't be coerced into Integer
-  - Repository 40Think/obsidian-copilot_DigitalTwin not found
-  - Repository 40Think/obsidian-copilot_DigitalTwin not found
+  - '"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String)
+    format, or the repository ID (Integer), or a hash containing :repo and :user keys.'
+  - '"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String)
+    format, or the repository ID (Integer), or a hash containing :repo and :user keys.'
+  - '"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String)
+    format, or the repository ID (Integer), or a hash containing :repo and :user keys.'
+  - '"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String)
+    format, or the repository ID (Integer), or a hash containing :repo and :user keys.'
+  - '"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String)
+    format, or the repository ID (Integer), or a hash containing :repo and :user keys.'
+  - '"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String)
+    format, or the repository ID (Integer), or a hash containing :repo and :user keys.'
+  - '"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String)
+    format, or the repository ID (Integer), or a hash containing :repo and :user keys.'
+  - '"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String)
+    format, or the repository ID (Integer), or a hash containing :repo and :user keys.'
+  - '"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String)
+    format, or the repository ID (Integer), or a hash containing :repo and :user keys.'
+  - '"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String)
+    format, or the repository ID (Integer), or a hash containing :repo and :user keys.'
+  - '"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String)
+    format, or the repository ID (Integer), or a hash containing :repo and :user keys.'
+  - '"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String)
+    format, or the repository ID (Integer), or a hash containing :repo and :user keys.'
   inserted: 8
-  seconds: 5.297697407
+  seconds: 0.799938794
   version: 0.54.0
   what: judges-summary
-  when: 2025-10-27 16:42:52.337269640 Z
+  when: 2025-10-27 16:59:46.162092583 Z
 - _id: 1
   _job: 18847128931
   _time: 2025-10-27 15:49:40.843716412 Z
