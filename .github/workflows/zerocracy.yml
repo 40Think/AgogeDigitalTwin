@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.ZEROCRACY_TOKEN }}
           github-token: ${{ secrets.ZEROCRACY_PAT }}
-          repositories: 40Think/obsidian-copilot_DigitalTwin
+          repositories: 40Think/AgogeDigitalTwin
           factbase: foo.fb
       - uses: zerocracy/pages-action@0.5.2
         with:
