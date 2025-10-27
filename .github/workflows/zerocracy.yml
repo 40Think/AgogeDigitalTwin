@@ -1,13 +1,13 @@
 name: zerocracy
 'on':
   schedule:
-    - cron: '42 * * * *'  # Каждый час в 42-ю минуту
+    - cron: '42 * * * *'
 concurrency:
   group: 40think
   cancel-in-progress: false
 jobs:
   zerocracy:
-    if: github.repository_owner == '40Think'  # ← ЗАМЕНИТЕ НА СВОЁ ИМЯ АККАУНТА!
+    if: github.repository_owner == '40Think'
     runs-on: ubuntu-24.04
     timeout-minutes: 25
     steps:
@@ -16,12 +16,12 @@ jobs:
         with:
           token: ${{ secrets.ZEROCRACY_TOKEN }}
           github-token: ${{ secrets.ZEROCRACY_PAT }}
-          repositories: 40Think/obsidian-copilot_DigitalTwin  # ← ЗАМЕНИТЕ НА ВАШИ РЕПОЗИТОРИИ!
-          factbase: 40think.fb
+          repositories: 40Think/obsidian-copilot_DigitalTwin
+          factbase: foo.fb
       - uses: zerocracy/pages-action@0.5.2
         with:
           github-token: ${{ secrets.ZEROCRACY_PAT }}
-          factbase: 40think.fb
+          factbase: foo.fb
       - uses: JamesIves/github-pages-deploy-action@v4.6.0
         with:
           folder: pages
