@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.16.8" size="12426">
+<fb version="0.16.8" size="12896">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
@@ -7,22 +7,27 @@
     <error>
       <v t="S">Repository 40Think/obsidian-copilot_DigitalTwin not found</v>
       <v t="S">Repository 40Think/obsidian-copilot_DigitalTwin not found</v>
+      <v t="S">nil can't be coerced into Integer</v>
+      <v t="S">Repository 40Think/obsidian-copilot_DigitalTwin not found</v>
+      <v t="S">GET https://api.github.com/search/issues?per_page=100&amp;q=repo%3A40Think%2Fobsidian-copilot_DigitalTwin+type%3Aissue+closed%3A2025-09-29T15%3A49%3A50Z..2025-10-27T15%3A49%3A50Z: 422 - Validation Failed
+Error summary:
+  message: The listed users and repositories cannot be searched either because the resources do not exist or you do not have permission to view them.
+  resource: Search
+  field: q
+  code: invalid // See: https://docs.github.com/v3/search/</v>
       <v t="S">Repository 40Think/obsidian-copilot_DigitalTwin not found</v>
       <v t="S">Repository 40Think/obsidian-copilot_DigitalTwin not found</v>
-      <v t="S">undefined method 'zero?' for nil</v>
-      <v t="S">undefined method 'zero?' for nil</v>
-      <v t="S">undefined method 'first' for nil</v>
       <v t="S">Repository 40Think/obsidian-copilot_DigitalTwin not found</v>
       <v t="S">Repository 40Think/obsidian-copilot_DigitalTwin not found</v>
-      <v t="S">Repository 40Think/obsidian-copilot_DigitalTwin not found</v>
+      <v t="S">nil can't be coerced into Integer</v>
       <v t="S">Repository 40Think/obsidian-copilot_DigitalTwin not found</v>
       <v t="S">Repository 40Think/obsidian-copilot_DigitalTwin not found</v>
     </error>
     <inserted t="I">8</inserted>
-    <seconds t="F">9.356338006</seconds>
+    <seconds t="F">5.297697407</seconds>
     <version t="S">0.54.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-10-27T16:40:29Z</when>
+    <when t="T">2025-10-27T16:42:52Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
@@ -31,6 +36,8 @@
     <_version t="S">0.16.8/0.54.0/0.16.0</_version>
     <total_issues t="I">1</total_issues>
     <total_pulls t="I">0</total_pulls>
+    <total_releases t="I">3</total_releases>
+    <total_repositories t="I">1</total_repositories>
     <what t="S">dimensions-of-terrain</what>
     <when t="T">2025-10-27T15:49:40Z</when>
   </f>
@@ -111,17 +118,6 @@
     <what t="S">pmp</what>
   </f>
   <f>
-    <_id t="I">8</_id>
-    <_job t="I">45712</_job>
-    <_time t="T">2025-10-27T15:50:08Z</_time>
-    <_version t="S">0.16.8/0.55.0/0.16.0</_version>
-    <area t="S">cost</area>
-    <award_price t="F">0.0</award_price>
-    <love t="I">2</love>
-    <slaves t="S">torvalds</slaves>
-    <what t="S">pmp</what>
-  </f>
-  <f>
     <_id t="I">9</_id>
     <_job t="I">45712</_job>
     <_time t="T">2025-10-27T15:50:30Z</_time>
@@ -144,5 +140,16 @@
     <_version t="S">0.16.8/0.54.0/0.16.0</_version>
     <what t="S">learn-eva</what>
     <when t="T">2025-10-27T15:50:35Z</when>
+  </f>
+  <f>
+    <_id t="I">11</_id>
+    <_job t="I">45720</_job>
+    <_time t="T">2025-10-27T16:40:48Z</_time>
+    <_version t="S">0.16.8/0.55.0/0.16.0</_version>
+    <area t="S">cost</area>
+    <award_price t="F">1.0</award_price>
+    <love t="I">2</love>
+    <slaves t="S">torvalds</slaves>
+    <what t="S">pmp</what>
   </f>
 </fb>
