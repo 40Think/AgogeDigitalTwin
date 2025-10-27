@@ -1,0 +1,298 @@
+---
+- added: 8
+  cycles: 1
+  deleted: 8
+  inserted: 8
+  seconds: 41.087166194
+  version: 0.54.0
+  what: judges-summary
+  when: 2025-10-27 18:58:06.389470022 Z
+- _id: 1
+  _job: 18852608486
+  _time: 2025-10-27 18:57:27.170912472 Z
+  _version: 0.16.8/0.54.0/0.16.0
+  by_owner: 1
+  commit: 63409aa1137817394192f09b230dd955c9328b15
+  default_branch: master
+  details: 'A new Git push #27794825902 has arrived to 40think/agogedigitaltwin, made
+    by @40think (default branch is "master"), not associated with any pull request.'
+  event_id: 5503927994
+  event_type: PushEvent
+  is_human: 1
+  push_id: 27794825902
+  ref: refs/heads/master
+  repository: 1082929940
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-10-27 18:07:11.000000000 Z
+  where: github
+  who: 237402083
+- _id: 2
+  _job: 18852608486
+  _time: 2025-10-27 18:57:28.087975961 Z
+  _version: 0.16.8/0.54.0/0.16.0
+  by_owner: 1
+  commit: b766c947dd01cedafbe31e94ff8c9696343d8b58
+  default_branch: master
+  details: 'A new Git push #27793529729 has arrived to 40think/agogedigitaltwin, made
+    by @40think (default branch is "master"), not associated with any pull request.'
+  event_id: 5502640216
+  event_type: PushEvent
+  is_human: 1
+  push_id: 27793529729
+  ref: refs/heads/master
+  repository: 1082929940
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-10-27 17:17:19.000000000 Z
+  where: github
+  who: 237402083
+- _id: 3
+  _job: 18852608486
+  _time: 2025-10-27 18:57:28.383292172 Z
+  _version: 0.16.8/0.54.0/0.16.0
+  by_owner: 1
+  commit: 659d5a00514fe419893a3fd376874b91b2b2a2c6
+  default_branch: master
+  details: 'A new Git push #27793093805 has arrived to 40think/agogedigitaltwin, made
+    by @40think (default branch is "master"), not associated with any pull request.'
+  event_id: 5502206578
+  event_type: PushEvent
+  is_human: 1
+  push_id: 27793093805
+  ref: refs/heads/master
+  repository: 1082929940
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-10-27 17:01:08.000000000 Z
+  where: github
+  who: 237402083
+- _id: 4
+  _job: 18852608486
+  _time: 2025-10-27 18:57:28.698303776 Z
+  _version: 0.16.8/0.54.0/0.16.0
+  by_owner: 1
+  commit: bc2a672d174ae31804ae6d7ee96fe62c96cf7a1d
+  default_branch: master
+  details: 'A new Git push #27792571439 has arrived to 40think/agogedigitaltwin, made
+    by @40think (default branch is "master"), not associated with any pull request.'
+  event_id: 5501687355
+  event_type: PushEvent
+  is_human: 1
+  push_id: 27792571439
+  ref: refs/heads/master
+  repository: 1082929940
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-10-27 16:41:16.000000000 Z
+  where: github
+  who: 237402083
+- _id: 5
+  _job: 18852608486
+  _time: 2025-10-27 18:57:29.033777152 Z
+  _version: 0.16.8/0.54.0/0.16.0
+  by_owner: 1
+  commit: 3f95829785aff82c693891d55c1f388e6409d87e
+  default_branch: master
+  details: 'A new Git push #27792211494 has arrived to 40think/agogedigitaltwin, made
+    by @40think (default branch is "master"), not associated with any pull request.'
+  event_id: 5501329828
+  event_type: PushEvent
+  is_human: 1
+  push_id: 27792211494
+  ref: refs/heads/master
+  repository: 1082929940
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-10-27 16:28:17.000000000 Z
+  where: github
+  who: 237402083
+- _id: 6
+  _job: 18852608486
+  _time: 2025-10-27 18:57:29.411750073 Z
+  _version: 0.16.8/0.54.0/0.16.0
+  by_owner: 1
+  commit: fceb0bd4f47086a55ca0a2620499b80299dee9e0
+  default_branch: master
+  details: 'A new Git push #27790873086 has arrived to 40think/agogedigitaltwin, made
+    by @40think (default branch is "master"), not associated with any pull request.'
+  event_id: 5499998572
+  event_type: PushEvent
+  is_human: 1
+  push_id: 27790873086
+  ref: refs/heads/master
+  repository: 1082929940
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-10-27 15:41:13.000000000 Z
+  where: github
+  who: 237402083
+- _id: 7
+  _job: 18852608486
+  _time: 2025-10-27 18:57:29.723363986 Z
+  _version: 0.16.8/0.54.0/0.16.0
+  by_owner: 1
+  commit: 9ef57e3e6ca028083a64b03a0be7bef5fbc59e01
+  default_branch: master
+  details: 'A new Git push #27790659216 has arrived to 40think/agogedigitaltwin, made
+    by @40think (default branch is "master"), not associated with any pull request.'
+  event_id: 5499786065
+  event_type: PushEvent
+  is_human: 1
+  push_id: 27790659216
+  ref: refs/heads/master
+  repository: 1082929940
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-10-27 15:33:38.000000000 Z
+  where: github
+  who: 237402083
+- _id: 8
+  _job: 18852608486
+  _time: 2025-10-27 18:57:30.024110023 Z
+  _version: 0.16.8/0.54.0/0.16.0
+  by_owner: 1
+  commit: f28b8cfac513314dd26dec2796684feb7630ed14
+  default_branch: master
+  details: 'A new Git push #27784293038 has arrived to 40think/agogedigitaltwin, made
+    by @40think (default branch is "master"), not associated with any pull request.'
+  event_id: 5493451072
+  event_type: PushEvent
+  is_human: 1
+  push_id: 27784293038
+  ref: refs/heads/master
+  repository: 1082929940
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-10-27 11:49:20.000000000 Z
+  where: github
+  who: 237402083
+- _id: 9
+  _job: 18852608486
+  _time: 2025-10-27 18:57:30.328702844 Z
+  _version: 0.16.8/0.54.0/0.16.0
+  details: The issue 40think/agogedigitaltwin#1 has been opened by @40think.
+  event_id: 4251972837
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 1
+  repository: 1082929940
+  what: issue-was-opened
+  when: 2025-10-25 02:35:47.000000000 Z
+  where: github
+  who: 237402083
+- _id: 10
+  _job: 18852608486
+  _time: 2025-10-27 18:57:30.362555332 Z
+  _version: 0.16.8/0.54.0/0.16.0
+  earliest_issue_was_found: 1
+  events_were_scanned: 5503927994
+  latest_issue_was_found: 1
+  min_issue_was_found: 1
+  repository: 1082929940
+  what: iterate
+  where: github
+- _id: 11
+  _job: 18852608486
+  _time: 2025-10-27 18:57:30.379589437 Z
+  _version: 0.16.8/0.54.0/0.16.0
+  total_active_contributors: 0
+  total_commits: 745
+  total_contributors: 37
+  total_files: 430
+  total_forks: 0
+  total_issues: 1
+  total_pulls: 0
+  total_releases: 0
+  total_repositories: 1
+  total_stars: 0
+  what: dimensions-of-terrain
+  when: 2025-10-27 18:57:30.387140032 Z
+- _id: 12
+  _job: 18852608486
+  _time: 2025-10-27 18:57:37.217840957 Z
+  _version: 0.16.8/0.54.0/0.16.0
+  since: 2025-09-29 18:57:37.243607661 Z
+  total_builds_ran: 22
+  total_commits_pushed: 33
+  total_hoc_committed: 28309
+  total_issues_created: 1
+  total_pulls_submitted: 0
+  total_releases_published: 0
+  total_reviews_submitted: 0
+  what: quantity-of-deliverables
+  when: 2025-10-27 18:57:37.243607661 Z
+- _id: 13
+  _job: 18852608486
+  _time: 2025-10-27 18:57:51.737757028 Z
+  _version: 0.16.8/0.54.0/0.16.0
+  details: 'We found out that the user #237402083 is known in GitHub as @40think.'
+  is_human: 1
+  name: 40think
+  what: who-has-name
+  when: 2025-10-27 18:57:51.742900927 Z
+  where: github
+  who: 237402083
+- _id: 14
+  _job: 18852608486
+  _time: 2025-10-27 18:57:53.692619757 Z
+  _version: 0.16.8/0.54.0/0.16.0
+  since: 2025-09-29 18:57:53.702600082 Z
+  some_backlog_size:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  some_build_duration:
+  - 116
+  - 73
+  - 1
+  - 2
+  - 45
+  - 104
+  - 65
+  - 117
+  - 110
+  - 136
+  - 44
+  - 86
+  - 123
+  - 89
+  - 117
+  - 80
+  - 104
+  - 73
+  - 64
+  - 64
+  - 113
+  - 0
+  some_build_success_rate:
+  - 0
+  - 1
+  - 0
+  - 0
+  - 1
+  - 0
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  - 1
+  - 0
+  - 1
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  some_merged_pulls: 0
+  some_unmerged_pulls: 0
+  what: quality-of-service
+  when: 2025-10-27 18:57:53.702600082 Z
