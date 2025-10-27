@@ -28,10 +28,10 @@
   - '"AgogeDigitalTwin" is invalid as a repository identifier. Use the user/repo (String)
     format, or the repository ID (Integer), or a hash containing :repo and :user keys.'
   inserted: 8
-  seconds: 0.829434517
+  seconds: 0.717678108
   version: 0.54.0
   what: judges-summary
-  when: 2025-10-27 17:08:28.499862667 Z
+  when: 2025-10-27 17:19:26.773286027 Z
 - _id: 1
   _job: 18847128931
   _time: 2025-10-27 15:49:40.843716412 Z
