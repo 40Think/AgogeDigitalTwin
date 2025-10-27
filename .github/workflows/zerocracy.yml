@@ -1,0 +1,28 @@
+name: zerocracy
+'on':
+  schedule:
+    - cron: '42 * * * *'  # Каждый час в 42-ю минуту
+concurrency:
+  group: 40think
+  cancel-in-progress: false
+jobs:
+  zerocracy:
+    if: github.repository_owner == '40Thinker'  # ← ЗАМЕНИТЕ НА СВОЁ ИМЯ АККАУНТА!
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: zerocracy/judges-action@0.16.0
+        with:
+          token: ${{ secrets.ZEROCRACY_TOKEN }}
+          github-token: ${{ secrets.ZEROCRACY_PAT }}
+          repositories: 40Think/obsidian-copilot_DigitalTwin  # ← ЗАМЕНИТЕ НА ВАШИ РЕПОЗИТОРИИ!
+          factbase: 40think.fb
+      - uses: zerocracy/pages-action@0.5.2
+        with:
+          github-token: ${{ secrets.ZEROCRACY_PAT }}
+          factbase: 40think.fb
+      - uses: JamesIves/github-pages-deploy-action@v4.6.0
+        with:
+          folder: pages
+          clean: false
