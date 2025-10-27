@@ -7,7 +7,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   zerocracy:
-    if: github.repository_owner == '40Thinker'  # ← ЗАМЕНИТЕ НА СВОЁ ИМЯ АККАУНТА!
+    if: github.repository_owner == '40Think'  # ← ЗАМЕНИТЕ НА СВОЁ ИМЯ АККАУНТА!
     runs-on: ubuntu-24.04
     timeout-minutes: 25
     steps:
