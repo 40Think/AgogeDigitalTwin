@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.16.8" size="17452">
+<fb version="0.16.8" size="17444">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">5.559751021</seconds>
+    <seconds t="F">5.350496014</seconds>
     <version t="S">0.54.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-10-28T20:53:18Z</when>
+    <when t="T">2025-10-28T21:47:33Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
@@ -396,14 +396,6 @@
     <what t="S">pmp</what>
   </f>
   <f>
-    <_id t="I">27</_id>
-    <_job t="I">45842</_job>
-    <_time t="T">2025-10-28T11:48:15Z</_time>
-    <_version t="S">0.16.8/0.54.0/0.16.0</_version>
-    <what t="S">learn-eva</what>
-    <when t="T">2025-10-28T11:48:15Z</when>
-  </f>
-  <f>
     <_id t="I">29</_id>
     <_job t="I">18886093410</_job>
     <_time t="T">2025-10-28T19:00:08Z</_time>
@@ -422,14 +414,22 @@
     <when t="T">2025-10-28T19:00:08Z</when>
   </f>
   <f>
-    <_id t="I">30</_id>
-    <_job t="I">18888873711</_job>
-    <_time t="T">2025-10-28T20:53:17Z</_time>
+    <_id t="I">31</_id>
+    <_job t="I">45904</_job>
+    <_time t="T">2025-10-28T20:53:57Z</_time>
+    <_version t="S">0.16.8/0.54.0/0.16.0</_version>
+    <what t="S">learn-eva</what>
+    <when t="T">2025-10-28T20:53:57Z</when>
+  </f>
+  <f>
+    <_id t="I">32</_id>
+    <_job t="I">18890133751</_job>
+    <_time t="T">2025-10-28T21:47:30Z</_time>
     <_version t="S">0.16.8/0.54.0/0.16.0</_version>
     <earliest_issue_was_found t="I">1</earliest_issue_was_found>
-    <events_were_scanned t="I">5536993479</events_were_scanned>
+    <events_were_scanned t="I">5538298359</events_were_scanned>
     <latest_issue_was_found t="I">1</latest_issue_was_found>
-    <min_issue_was_found t="I">1</min_issue_was_found>
+    <min_issue_was_found t="I">0</min_issue_was_found>
     <repository t="I">1082929940</repository>
     <what t="S">iterate</what>
     <where t="S">github</where>
