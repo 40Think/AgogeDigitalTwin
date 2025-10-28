@@ -3,10 +3,10 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 4.868509078
+  seconds: 4.324315601
   version: 0.54.0
   what: judges-summary
-  when: 2025-10-28 11:47:36.378332218 Z
+  when: 2025-10-28 13:45:41.763717587 Z
 - _id: 1
   _job: 18852608486
   _time: 2025-10-27 18:57:27.170912472 Z
@@ -425,20 +425,20 @@
   love: 2
   slaves: torvalds
   what: pmp
-- _id: 25
-  _job: 45783
-  _time: 2025-10-28 03:35:15.201360884 Z
+- _id: 27
+  _job: 45842
+  _time: 2025-10-28 11:48:15.125841735 Z
   _version: 0.16.8/0.54.0/0.16.0
   what: learn-eva
-  when: 2025-10-28 03:35:15.199352854 Z
-- _id: 26
-  _job: 18873696834
-  _time: 2025-10-28 11:47:35.979300651 Z
+  when: 2025-10-28 11:48:15.123797933 Z
+- _id: 28
+  _job: 18876875162
+  _time: 2025-10-28 13:45:41.713636271 Z
   _version: 0.16.8/0.54.0/0.16.0
   earliest_issue_was_found: 1
-  events_were_scanned: 5523553405
+  events_were_scanned: 5524830282
   latest_issue_was_found: 1
-  min_issue_was_found: 1
+  min_issue_was_found: 0
   repository: 1082929940
   what: iterate
   where: github
