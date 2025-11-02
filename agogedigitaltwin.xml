@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.16.8" size="18418">
+<fb version="0.16.8" size="18419">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">6.270159533</seconds>
+    <seconds t="F">6.208752408</seconds>
     <version t="S">0.54.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-11-02T07:47:35Z</when>
+    <when t="T">2025-11-02T08:49:10Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
@@ -495,13 +495,13 @@
   </f>
   <f>
     <_id t="I">63</_id>
-    <_job t="I">19009267193</_job>
-    <_time t="T">2025-11-02T07:47:33Z</_time>
+    <_job t="I">19009915350</_job>
+    <_time t="T">2025-11-02T08:49:07Z</_time>
     <_version t="S">0.16.8/0.54.0/0.16.0</_version>
     <earliest_issue_was_found t="I">1</earliest_issue_was_found>
-    <events_were_scanned t="I">5641448310</events_were_scanned>
+    <events_were_scanned t="I">5641925951</events_were_scanned>
     <latest_issue_was_found t="I">1</latest_issue_was_found>
-    <min_issue_was_found t="I">0</min_issue_was_found>
+    <min_issue_was_found t="I">1</min_issue_was_found>
     <repository t="I">1082929940</repository>
     <what t="S">iterate</what>
     <where t="S">github</where>
