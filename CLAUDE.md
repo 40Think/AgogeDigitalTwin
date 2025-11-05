@@ -288,3 +288,11 @@ The TODO.md should be:
   - Backwards compatible - loads existing messages from ProjectManager cache
   - Zero configuration required - works automatically
 - Check @tailwind.config.js to understand what tailwind css classnames are available
+
+---
+
+Issue to solve: https://github.com/40Think/AgogeDigitalTwin/issues/1
+Your prepared branch: issue-1-b53fe3666f91
+Your prepared working directory: /tmp/gh-issue-solver-1762326169629
+
+Proceed.
