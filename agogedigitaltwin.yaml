@@ -3,10 +3,10 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 7.730671853
+  seconds: 4.544028234
   version: 0.54.0
   what: judges-summary
-  when: 2025-11-06 19:00:20.265367730 Z
+  when: 2025-11-06 19:47:53.172864823 Z
 - _id: 1
   _job: 18852608486
   _time: 2025-10-27 18:57:27.170912472 Z
@@ -414,7 +414,7 @@
   qod: 0
   qod_per_day: 124.01714285714286
   qod_per_sec: 0
-  start: 2025-10-27 18:57:36.243607661 Z
+  start: &1 2025-10-27 18:57:36.243607661 Z
   what: earned-value
   when: 2025-10-27 18:58:46.515856943 Z
 - _id: 23
@@ -576,14 +576,28 @@
   _version: 0.16.8/0.55.0/0.16.0!0.16.1
   what: learn-eva
   when: 2025-11-06 14:53:52.779988653 Z
-- _id: 95
-  _job: 19146641357
-  _time: 2025-11-06 19:00:16.245235048 Z
+- _id: 96
+  _job: 47648
+  _time: 2025-11-06 19:01:07.618004867 Z
+  _version: 0.16.8/0.55.0/0.16.0!0.16.1
+  ac: 0
+  cost_of_qod: 0.5951265039611651
+  ev: 0
+  pv: 777
+  qod: 0
+  qod_per_day: 130.63197142857143
+  qod_per_sec: 0.0
+  start: *1
+  what: earned-value
+  when: 2025-11-06 19:01:07.618190539 Z
+- _id: 97
+  _job: 19147886240
+  _time: 2025-11-06 19:47:51.156822968 Z
   _version: 0.16.8/0.54.0/0.16.0
   earliest_issue_was_found: 1
-  events_were_scanned: 5760323571
+  events_were_scanned: 5761843404
   latest_issue_was_found: 1
-  min_issue_was_found: 0
+  min_issue_was_found: 1
   repository: 1082929940
   what: iterate
   where: github
