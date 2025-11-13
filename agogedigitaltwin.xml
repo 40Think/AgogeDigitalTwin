@@ -5,10 +5,10 @@
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">4.363753069</seconds>
+    <seconds t="F">5.938969916</seconds>
     <version t="S">0.54.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-11-13T18:54:58Z</when>
+    <when t="T">2025-11-13T19:47:50Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
@@ -710,13 +710,13 @@
   </f>
   <f>
     <_id t="I">149</_id>
-    <_job t="I">19342507617</_job>
-    <_time t="T">2025-11-13T18:54:57Z</_time>
+    <_job t="I">19343866738</_job>
+    <_time t="T">2025-11-13T19:47:49Z</_time>
     <_version t="S">0.16.8/0.54.0/0.16.0</_version>
     <earliest_issue_was_found t="I">1</earliest_issue_was_found>
-    <events_were_scanned t="I">5933511853</events_were_scanned>
+    <events_were_scanned t="I">5934993936</events_were_scanned>
     <latest_issue_was_found t="I">1</latest_issue_was_found>
-    <min_issue_was_found t="I">1</min_issue_was_found>
+    <min_issue_was_found t="I">0</min_issue_was_found>
     <repository t="I">1082929940</repository>
     <what t="S">iterate</what>
     <where t="S">github</where>
