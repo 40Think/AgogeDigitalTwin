@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.16.8" size="21634">
+<fb version="0.16.8" size="21631">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">12.327230809</seconds>
+    <seconds t="F">5.63055434</seconds>
     <version t="S">0.54.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-11-14T06:56:39Z</when>
+    <when t="T">2025-11-14T07:47:37Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
@@ -701,14 +701,6 @@
     <when t="T">2025-11-13T05:50:04Z</when>
   </f>
   <f>
-    <_id t="I">150</_id>
-    <_job t="I">49078</_job>
-    <_time t="T">2025-11-13T20:51:58Z</_time>
-    <_version t="S">0.16.8/0.55.0/0.16.0!0.16.1</_version>
-    <what t="S">learn-eva</what>
-    <when t="T">2025-11-13T20:51:58Z</when>
-  </f>
-  <f>
     <_id t="I">152</_id>
     <_job t="I">19356864688</_job>
     <_time t="T">2025-11-14T06:56:31Z</_time>
@@ -727,14 +719,22 @@
     <when t="T">2025-11-14T06:56:31Z</when>
   </f>
   <f>
-    <_id t="I">153</_id>
-    <_job t="I">19356864688</_job>
-    <_time t="T">2025-11-14T06:56:39Z</_time>
+    <_id t="I">154</_id>
+    <_job t="I">49148</_job>
+    <_time t="T">2025-11-14T06:57:19Z</_time>
+    <_version t="S">0.16.8/0.55.0/0.16.0!0.16.1</_version>
+    <what t="S">learn-eva</what>
+    <when t="T">2025-11-14T06:57:19Z</when>
+  </f>
+  <f>
+    <_id t="I">155</_id>
+    <_job t="I">19357901718</_job>
+    <_time t="T">2025-11-14T07:47:36Z</_time>
     <_version t="S">0.16.8/0.54.0/0.16.0</_version>
     <earliest_issue_was_found t="I">1</earliest_issue_was_found>
-    <events_were_scanned t="I">5946495422</events_were_scanned>
+    <events_were_scanned t="I">5947648601</events_were_scanned>
     <latest_issue_was_found t="I">1</latest_issue_was_found>
-    <min_issue_was_found t="I">0</min_issue_was_found>
+    <min_issue_was_found t="I">1</min_issue_was_found>
     <repository t="I">1082929940</repository>
     <what t="S">iterate</what>
     <where t="S">github</where>
